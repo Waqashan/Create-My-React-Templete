@@ -37,7 +37,7 @@ const QuickLinks = () => {
               <CallIcon />
             </Box>
             <Box sx={{ display: "flex", justifyContent: "center" }}>
-              <Typography variant="h5">Call : +923409495625</Typography>
+              <Typography variant="h6">Call : +923409495625</Typography>
             </Box>
           </Grid>
           <Grid item xs={12} sm={12} md={4} mb={8}>
@@ -46,7 +46,7 @@ const QuickLinks = () => {
               <EmailIcon />
             </Box>
             <Box sx={{ display: "flex", justifyContent: "center" }}>
-              <Typography variant="h5">
+              <Typography variant="h6">
                 Email : Waqaskhan26394@gmail.com
               </Typography>
             </Box>
@@ -57,7 +57,7 @@ const QuickLinks = () => {
               <LocationOnIcon />
             </Box>
             <Box sx={{ display: "flex", justifyContent: "center" }}>
-              <Typography variant="h5">Location</Typography>
+              <Typography variant="h6">Location</Typography>
             </Box>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>

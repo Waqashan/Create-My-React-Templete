@@ -71,7 +71,7 @@ const Service = () => {
           <Typography variant="h4" fontWeight={"bold"} gutterBottom>
             Services
           </Typography>
-          <Typography variant="subtitle1" fontSize={"1.2rem"} gutterBottom>
+          <Typography variant="body1" fontSize={"1.2rem"} gutterBottom>
             There are many variations of passages of Lorem Ipsum available, but
             the majority have suffered alteration
           </Typography>
@@ -114,7 +114,7 @@ const Service = () => {
               >
                 {item.name}
               </Typography>
-              <Typography variant="subtitle1">{item.description}</Typography>
+              <Typography variant="body1">{item.description}</Typography>
               <Button
                 sx={{ marginTop: "20px", backgroundColor: "#f07b26" }}
                 variant="contained"

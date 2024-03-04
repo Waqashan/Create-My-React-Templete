@@ -24,7 +24,7 @@ const About = () => {
           <Typography variant="h3" fontWeight={"bold"}>
             About Us
           </Typography>
-          <Typography variant="subtitle1" sx={{ fontSize: "1.1rem" }} mt={4}>
+          <Typography variant="body1" sx={{ fontSize: "1.1rem" }} mt={4}>
             There are many variations of passages of Lorem Ipsum available, but
             the majority have suffered alteration in some form, by injected
             humour, or randomised words which don't look even slightly
