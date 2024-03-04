@@ -1,0 +1,27 @@
+.custom-slider .slick-dots li button:before {
+    color:#ffffff; 
+    font-size: 17px;
+    
+    margin-top: 50px;
+  }
+  .custom-slider .slick-dots li button {
+    color:white;
+ 
+  }
+  .custom-slider .slick-dots li.slick-active button:before {
+    color: #f07b26; /* Change the color of the active dot */
+    font-size: 25px; /* Increase font size */
+; /* Modify margin top if needed */
+  }
+  .custom-slider {
+    position: relative;
+  }
+  
+  .custom-slider .img1 {
+    position: absolute;
+    border-radius: 20px;
+    top: 40px;
+    left: -20px;
+      
+  }
+  

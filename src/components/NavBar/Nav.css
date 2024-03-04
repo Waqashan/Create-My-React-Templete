@@ -1,0 +1,14 @@
+.LargeScreen a.active {
+    font-weight: bold;
+    padding: 6px 20px;
+    color: white;
+   background-color: rgb(7, 7, 7);
+  }
+  
+  .mobileMenu a.active {
+    font-weight: bold;
+    padding: 6px;
+    color: white;
+    background-color: black;
+  }
+  
